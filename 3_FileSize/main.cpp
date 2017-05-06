@@ -17,12 +17,22 @@ int main(int argc, char *argv[]) {
     exit(1);
   }
 
-  int count = 0;
-  while (file) {
-    char dummy;
-    if (file.get(dummy))
-      count++;
-  }
+//  // Simply
+//  int count = 0;
+//  while (file) {
+//    char dummy;
+//    if (file.get(dummy))
+//      count++;
+//  }
+
+  // Alternatively:
+  int count;
+  long begin, end;
+  file.seekg(0, ios::beg);
+  begin = file.tellg();
+  file.seekg(0, ios::end);
+  end = file.tellg();
+  count = end - begin;
 
   cout << "Number of bytes: " << count << "." << endl;
 
