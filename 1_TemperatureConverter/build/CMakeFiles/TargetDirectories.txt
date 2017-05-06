@@ -1,0 +1,3 @@
+/home/tysik/Projekty/ProgrammingChallenges/1_TemperatureConverter/build/CMakeFiles/edit_cache.dir
+/home/tysik/Projekty/ProgrammingChallenges/1_TemperatureConverter/build/CMakeFiles/rebuild_cache.dir
+/home/tysik/Projekty/ProgrammingChallenges/1_TemperatureConverter/build/CMakeFiles/1_TemperatureConverter.dir
