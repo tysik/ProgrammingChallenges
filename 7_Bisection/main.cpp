@@ -25,9 +25,9 @@ double bisect(double a, double b, double (*f)(double x))
     double c = (a + b) / 2.0;
 
     if (f(a) * f(c) < 0.0)
-      return bisect(a, c, my_function);
+      return bisect(a, c, f);
     else if (f(c) * f(b) < 0.0)
-      return bisect(c, b, my_function);
+      return bisect(c, b, f);
     else
       return c;
   }
