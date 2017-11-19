@@ -7,7 +7,7 @@ int main(int argc, char *argv[]) {
   if (argc != 2) {
     cerr << "Incorrect number of arguments \n";
     cerr << "Usage: \n";
-    cerr << "\t 3_FileSize filename.txt" << endl;
+    cerr << "\t 3_file_size filename.txt" << endl;
     exit(1);
   }
 

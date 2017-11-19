@@ -6,7 +6,7 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
   if (argc != 2) {
-    cerr << "Usage example: 2_LineCount filename.txt" << endl;
+    cerr << "Usage example: 2_line_count filename.txt" << endl;
     exit(1);
   }
 

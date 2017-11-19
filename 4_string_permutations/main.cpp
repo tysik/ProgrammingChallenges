@@ -31,7 +31,7 @@ int main(int argc, char *argv[]) {
   if (argc != 2) {
     cerr << "Incorrect number of arguments \n";
     cerr << "Usage: \n";
-    cerr << "\t 4_StringPermutations string" << endl;
+    cerr << "\t 4_string_permutations string" << endl;
     exit(1);
   }
 

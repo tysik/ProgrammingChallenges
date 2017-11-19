@@ -16,7 +16,6 @@ int main()
   for (unsigned int i = 2; i < N; ++i)
     my_array.push_back(i);
 
-
   while (my_array.size() > 0)
   {
     counter++;
