@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tysik/Workspace/cpp/programming_challenges/numbers_to_words/numbers_to_words.cpp
+iostream
+-
+string
+-
+exception
+-
+cmath
+-
+vector
+-
+algorithm
+-
+

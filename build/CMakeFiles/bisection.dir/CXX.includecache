@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tysik/Workspace/cpp/programming_challenges/bisection/bisection.cpp
+iostream
+-
+iomanip
+-
+cmath
+-
+

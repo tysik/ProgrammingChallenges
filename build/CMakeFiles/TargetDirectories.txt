@@ -1,0 +1,15 @@
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/edit_cache.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/lotka_volterra.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/decimal_to_binary.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/string_search.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/string_permutations.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/line_count.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/numbers_to_words.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/newton_method.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/temperature_converter.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/roman_numbers.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/rebuild_cache.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/file_size.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/factorial_zeros.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/bisection.dir
+/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/prime_numbers.dir

@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="programming_challenges" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="lotka_volterra">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/lotka_volterra" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 lotka_volterra" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="lotka_volterra/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/lotka_volterra" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 lotka_volterra/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="decimal_to_binary">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/decimal_to_binary" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 decimal_to_binary" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="decimal_to_binary/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/decimal_to_binary" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 decimal_to_binary/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="string_search">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/string_search" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 string_search" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="string_search/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/string_search" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 string_search/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="string_permutations">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/string_permutations" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 string_permutations" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="string_permutations/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/string_permutations" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 string_permutations/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="line_count">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/line_count" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 line_count" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="line_count/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/line_count" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 line_count/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="numbers_to_words">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/numbers_to_words" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 numbers_to_words" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="numbers_to_words/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/numbers_to_words" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 numbers_to_words/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="newton_method">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/newton_method" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 newton_method" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="newton_method/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/newton_method" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 newton_method/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="temperature_converter">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/temperature_converter" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 temperature_converter" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="temperature_converter/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/temperature_converter" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 temperature_converter/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="roman_numbers">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/roman_numbers" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 roman_numbers" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="roman_numbers/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/roman_numbers" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 roman_numbers/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="file_size">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/file_size" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 file_size" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="file_size/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/file_size" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 file_size/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="factorial_zeros">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/factorial_zeros" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 factorial_zeros" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="factorial_zeros/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/factorial_zeros" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 factorial_zeros/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="bisection">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/bisection" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 bisection" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="bisection/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/bisection" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 bisection/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="prime_numbers">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/prime_numbers" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 prime_numbers" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="prime_numbers/fast">
+         <Option output="/home/tysik/Workspace/cpp/programming_challenges/build/prime_numbers" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tysik/Workspace/cpp/programming_challenges/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/python2.7" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 prime_numbers/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tysik/Workspace/cpp/programming_challenges/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/bisection/bisection.cpp">
+         <Option target="bisection"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/decimal_to_binary/decimal_to_binary.cpp">
+         <Option target="decimal_to_binary"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/factorial_zeros/factorial_zeros.cpp">
+         <Option target="factorial_zeros"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/file_size/file_size.cpp">
+         <Option target="file_size"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/line_count/line_count.cpp">
+         <Option target="line_count"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/lotka_volterra/lotka_volterra.cpp">
+         <Option target="lotka_volterra"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/newton_method/newton_method.cpp">
+         <Option target="newton_method"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/numbers_to_words/numbers_to_words.cpp">
+         <Option target="numbers_to_words"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/prime_numbers/prime_numbers.cpp">
+         <Option target="prime_numbers"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/roman_numbers/roman_numbers.cpp">
+         <Option target="roman_numbers"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/string_permutations/string_permutations.cpp">
+         <Option target="string_permutations"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/string_search/string_search.cpp">
+         <Option target="string_search"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/temperature_converter/temperature_converter.cpp">
+         <Option target="temperature_converter"/>
+      </Unit>
+      <Unit filename="/home/tysik/Workspace/cpp/programming_challenges/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
