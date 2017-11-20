@@ -5,6 +5,8 @@
 #include <vector>
 #include <algorithm>
 
+// TODO: Check solution at: https://github.com/trodevel/HumanizerCpp
+
 using namespace std;
 
 const unsigned int MAX_NUMBER = 9999;
