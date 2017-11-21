@@ -40,3 +40,4 @@ add_executable(numbers_to_words numbers_to_words/numbers_to_words.cpp)
 
 add_executable(vector_operations vector_operations/vector_operations.cpp)
 
+add_executable(radix_sort radix_sort/radix_sort.cpp)
