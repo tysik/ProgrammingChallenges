@@ -1,1 +1,0 @@
-/usr/bin/g++      CMakeFiles/numbers_to_words.dir/numbers_to_words/numbers_to_words.cpp.o  -o numbers_to_words -rdynamic 

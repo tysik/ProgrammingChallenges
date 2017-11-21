@@ -1,1 +1,0 @@
-/usr/bin/g++      CMakeFiles/newton_method.dir/newton_method/newton_method.cpp.o  -o newton_method -rdynamic 

@@ -1,1 +1,0 @@
-/usr/bin/g++      CMakeFiles/roman_numbers.dir/roman_numbers/roman_numbers.cpp.o  -o roman_numbers -rdynamic 

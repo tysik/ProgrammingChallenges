@@ -1,1 +1,0 @@
-/usr/bin/g++      CMakeFiles/temperature_converter.dir/temperature_converter/temperature_converter.cpp.o  -o temperature_converter -rdynamic 

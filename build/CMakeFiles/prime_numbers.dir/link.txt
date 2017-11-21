@@ -1,1 +1,0 @@
-/usr/bin/g++      CMakeFiles/prime_numbers.dir/prime_numbers/prime_numbers.cpp.o  -o prime_numbers -rdynamic 

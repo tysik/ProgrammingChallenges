@@ -1,1 +1,0 @@
-/usr/bin/g++      CMakeFiles/factorial_zeros.dir/factorial_zeros/factorial_zeros.cpp.o  -o factorial_zeros -rdynamic 

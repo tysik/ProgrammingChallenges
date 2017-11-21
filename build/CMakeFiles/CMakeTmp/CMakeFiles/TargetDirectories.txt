@@ -1,3 +1,0 @@
-/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
-/home/tysik/Workspace/cpp/programming_challenges/build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_ccaf1.dir

@@ -1,1 +1,0 @@
-/usr/bin/g++      CMakeFiles/lotka_volterra.dir/lotka_volterra/lotka_volterra.cpp.o  -o lotka_volterra -rdynamic -larmadillo -lpython2.7 
